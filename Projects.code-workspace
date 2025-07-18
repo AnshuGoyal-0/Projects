@@ -5,7 +5,8 @@
     }
   ],
   "settings": {
-    "wolf.disableHotModeWarning": true
+    "wolf.disableHotModeWarning": true,
+    "docwriter.style": "Auto-detect"
   },
   "extensions": {
     "recommendations": [
