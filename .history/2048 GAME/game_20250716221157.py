@@ -1,5 +1,5 @@
 # 2048.py
-"""!note"""
+
 # importing the logic.py file
 # where we have written all the
 # logic functions used.
@@ -7,7 +7,7 @@ import logic
 
 # Driver code
 if __name__ == '__main__':
-
+	
 # calling start_game function
 # to initialize the matrix
 	mat = logic.start_game()
